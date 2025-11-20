@@ -1,5 +1,8 @@
-# Unit Converter - Beginner JavaScript Project
+# Sprint 3: Unit Converter - Beginner JavaScript Project
 **DevSprint Fall 2025**
+
+## Program Context
+ACM Introduces: the DevSprint program! If you are looking for resume-building developer experience with current tools in a low-stakes, collaborative, constructive, and growth-centered environment, this is the place for you! Working on a 4-week rotation between projects and workshops, students will have the opportunity to build and present up to 3 unique, 2-week-long projects. Hope to see you there learning, building, and failing with style 😎
 
 ## What You'll Build
 A simple web app that converts metric lengths (millimeters, centimeters, meters, kilometers) to imperial lengths (inches, feet, yards, miles). This project teaches you the fundamentals of JavaScript: variables, functions, DOM manipulation, and event handling.
